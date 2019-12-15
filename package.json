@@ -4,6 +4,7 @@
   "description": "Dim-theme",
   "version": "1.0.0",
   "publisher": "vladbelozertsev",
+  "icon": "images/logo.png",
   "repository": {
     "type": "git",
     "url": "https://github.com/vladbelozertsev/dim-theme"

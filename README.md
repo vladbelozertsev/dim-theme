@@ -4,8 +4,8 @@ Its my first theme.
 
 ## HTML:
 
-![html-image](https://github.com/vladbelozertsev/dim-theme/blob/master/images/html.png)
+![html-image](https://github.com/vladbelozertsev/dim-theme/blob/master/images/html.png?raw=true)
 
 ## CSS:
 
-![css-image](https://github.com/vladbelozertsev/dim-theme/blob/master/images/css.png)
+![css-image](https://github.com/vladbelozertsev/dim-theme/blob/master/images/css.png?raw=true)
