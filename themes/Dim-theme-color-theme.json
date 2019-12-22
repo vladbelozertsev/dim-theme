@@ -689,14 +689,14 @@
     {
       "scope": "text.html",
       "settings": {
-        "foreground": "#c4c4c4"
+        "foreground": "#c7c7c7"
       }
     },
     {
       "name": "Tag",
       "scope": "meta.tag.without-attributes, meta.embedded.expression, meta.jsx.children",
       "settings": {
-        "foreground": "#c4c4c4"
+        "foreground": "#c7c7c7"
       }
     },
     {
