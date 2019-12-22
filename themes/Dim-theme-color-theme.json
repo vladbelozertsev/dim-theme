@@ -635,13 +635,13 @@
     {
       "scope": "variable",
       "settings": {
-        "foreground": "#dedede"
+        "foreground": "#dbdbdb"
       }
     },
     {
       "scope": "entity.name.variable",
       "settings": {
-        "foreground": "#dedede"
+        "foreground": "#dbdbdb"
       }
     },
     {
@@ -710,7 +710,7 @@
       "scope": "variable.parameter",
       "settings": {
         "fontStyle": "",
-        "foreground": "#dedede"
+        "foreground": "#dbdbdb"
       }
     },
     {
