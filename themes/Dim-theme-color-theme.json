@@ -503,13 +503,6 @@
         "foreground": "#8dc891"
       }
     },
-    // {
-    //   "name": "Class, Support",
-    //   "scope": "entity.name.class, entity.other.inherited-class, entity.name.type, entity.name.type.class, support.type, support.class, support.orther.namespace.use.php, meta.use.php, support.other.namespace.php, markup.changed.git_gutter",
-    //   "settings": {
-    //     "foreground": "#FAC863"
-    //   }
-    // },
     {
       "name": "Sub-methods",
       "scope": "entity.name.module.js, variable.import.parameter.js, variable.other.class.js",
