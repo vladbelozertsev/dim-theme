@@ -1,4 +1,4 @@
-Its my first theme.
+React-based, not vivid theme.
 
 # Images:
 
