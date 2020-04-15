@@ -1,4 +1,4 @@
-React-based, is not vivid theme.
+React-based, not vivid theme.
 
 # Images:
 
