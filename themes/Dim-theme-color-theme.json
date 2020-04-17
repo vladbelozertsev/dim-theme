@@ -724,7 +724,7 @@
       "name": "Support.Class",
       "scope": ["support.class.component", "support.variable.property.dom"],
       "settings": {
-        "foreground": "#e0d18d" // #e6de9a #e3da8a #e3db98  #d9d191
+        "foreground": "#d9d191" // #e6de9a #e3da8a #e3db98  #d9d191
       }
     }
   ]
