@@ -696,7 +696,7 @@
       "name": "Function, Special Method",
       "scope": "variable.other.object.property, support.variable.property.dom",
       "settings": {
-        "foreground": "#c2d9ed"
+        "foreground": "#b2d0eb" //#b2d0eb #c2d9ed
       }
     },
     {
