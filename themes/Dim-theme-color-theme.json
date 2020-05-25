@@ -38,7 +38,7 @@
     "editorWhitespace.foreground": "#3b4048",
     "editorWidget.background": "#21252b",
     "input.background": "#1d1f23",
-    "list.activeSelectionBackground": "#272c36", // 2c313a
+    "list.activeSelectionBackground": "#282D34", // 2c313a 272c36
     "list.activeSelectionForeground": "#e3e3e3", // d7dae0
     "list.focusBackground": "#383e4a",
     "list.highlightForeground": "#c5c5c5",
