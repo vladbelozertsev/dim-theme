@@ -451,7 +451,7 @@
       "name": "Meta",
       "scope": ["meta.object-literal.key"],
       "settings": {
-        "foreground": "#b9b9b9"
+        "foreground": "#cfcfcf"
       }
     },
     {
