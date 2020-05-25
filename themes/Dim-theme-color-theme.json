@@ -54,7 +54,7 @@
     "statusBar.background": "#21252b",
     "statusBar.debuggingBackground": "#7e0097",
     "statusBar.debuggingBorder": "#66017a",
-    "statusBar.debuggingForeground": "#d3d3d3",
+    "statusBar.debuggingForeground": "#cfcfcf", // d3d3d3
     "statusBar.foreground": "#9da5b4",
     "statusBar.noFolderBackground": "#21252b",
     "statusBarItem.hoverBackground": "#2c313a",
@@ -358,9 +358,9 @@
     },
     {
       "name": "Variable",
-      "scope": "variable-meta.export.default, variable.parameter, variable.other.readwrite-meta.export.default",
+      "scope": "variable-meta.export.default, variable.parameter, variable.other.readwrite-meta.export.default, variable, entity.name.variable",
       "settings": {
-        "foreground": "#d3d3d3"
+        "foreground": "#cfcfcf"
       }
     },
     {
@@ -413,13 +413,6 @@
       }
     },
     {
-      "name": "Tag",
-      "scope": "meta.tag.without-attributes, meta.embedded.expression, meta.jsx.children",
-      "settings": {
-        "foreground": "#d3d3d3"
-      }
-    },
-    {
       "name": "Function, Special Method, Block Level",
       "scope": "entity.name.function, support.function, variable.function, keyword.other.special-method, meta.block-level",
       "settings": {
@@ -458,7 +451,7 @@
       "name": "Meta",
       "scope": ["meta.object-literal.key"],
       "settings": {
-        "foreground": "#cfcfcf"
+        "foreground": "#b7b7b7"
       }
     },
     {
@@ -472,7 +465,7 @@
       "name": "React Support Variable",
       "scope": "support.variable.dom.js",
       "settings": {
-        "foreground": "#d3d3d3"
+        "foreground": "#cfcfcf" // d3d3d3
       }
     },
     {
@@ -622,19 +615,7 @@
       "name": "Internal Variable",
       "scope": "meta.definition.variable-entity.name.function",
       "settings": {
-        "foreground": "#d3d3d3"
-      }
-    },
-    {
-      "scope": "variable",
-      "settings": {
-        "foreground": "#dbdbdb"
-      }
-    },
-    {
-      "scope": "entity.name.variable",
-      "settings": {
-        "foreground": "#dbdbdb"
+        "foreground": "#cfcfcf" // d3d3d3
       }
     },
     {
@@ -697,13 +678,6 @@
       "scope": "variable.other.object.property, support.variable.property.dom",
       "settings": {
         "foreground": "#b2d0eb" //#b2d0eb #c2d9ed
-      }
-    },
-    {
-      "scope": "variable.parameter",
-      "settings": {
-        "fontStyle": "",
-        "foreground": "#dbdbdb"
       }
     },
     {
