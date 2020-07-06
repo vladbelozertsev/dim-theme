@@ -108,7 +108,7 @@
       "name": "Variable",
       "scope": "variable-meta.export.default, variable.parameter, variable.other.readwrite-meta.export.default, variable, entity.name.variable",
       "settings": {
-        "foreground": "#c9c9c9"
+        "foreground": "#cfcfcf"
       }
     },
     {
@@ -199,7 +199,7 @@
       "name": "Meta",
       "scope": ["meta.object-literal.key"],
       "settings": {
-        "foreground": "#c9c9c9"
+        "foreground": "#cfcfcf"
       }
     },
     {
@@ -213,7 +213,7 @@
       "name": "React Support Variable",
       "scope": "support.variable.dom.js",
       "settings": {
-        "foreground": "#c9c9c9" // d3d3d3 cfcfcf
+        "foreground": "#cfcfcf" // d3d3d3 cfcfcf
       }
     },
     {
@@ -363,7 +363,7 @@
       "name": "Internal Variable",
       "scope": "meta.definition.variable-entity.name.function",
       "settings": {
-        "foreground": "#c9c9c9" // d3d3d3 cfcfcf
+        "foreground": "#cfcfcf" // d3d3d3 cfcfcf
       }
     },
     {
@@ -418,7 +418,7 @@
       "name": "Tag",
       "scope": "meta.tag.without-attributes, meta.embedded.expression, meta.jsx.children",
       "settings": {
-        "foreground": "#c9c9c9"
+        "foreground": "#cfcfcf"
       }
     },
     {
