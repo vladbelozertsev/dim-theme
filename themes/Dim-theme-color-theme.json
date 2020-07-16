@@ -16,7 +16,7 @@
     "editor.findMatchHighlightBackground": "#314365",
     "editor.lineHighlightBackground": "#333b42", // 363f4d
     "editor.selectionBackground": "#484e5b",
-    "editor.selectionHighlightBackground": "#484e5b",
+    "editor.selectionHighlightBackground": "#23282e", // 484e5b
     "editor.selectionHighlightBorder": "#ffffffaa",
     "editor.wordHighlightBackground": "#484e5b",
     "editor.wordHighlightStrongBackground": "#abb2bf26",
@@ -108,7 +108,7 @@
       "name": "Variable",
       "scope": "variable-meta.export.default, variable.parameter, variable.other.readwrite-meta.export.default, variable, entity.name.variable",
       "settings": {
-        "foreground": "#cfcfcf"
+        "foreground": "#c7c7c7"
       }
     },
     {
@@ -199,7 +199,7 @@
       "name": "Meta",
       "scope": ["meta.object-literal.key"],
       "settings": {
-        "foreground": "#cfcfcf"
+        "foreground": "#c7c7c7"
       }
     },
     {
@@ -213,7 +213,7 @@
       "name": "React Support Variable",
       "scope": "support.variable.dom.js",
       "settings": {
-        "foreground": "#cfcfcf" // d3d3d3 cfcfcf
+        "foreground": "#c7c7c7" // d3d3d3 cfcfcf
       }
     },
     {
@@ -363,7 +363,7 @@
       "name": "Internal Variable",
       "scope": "meta.definition.variable-entity.name.function",
       "settings": {
-        "foreground": "#cfcfcf" // d3d3d3 cfcfcf
+        "foreground": "#c7c7c7" // d3d3d3 cfcfcf
       }
     },
     {
@@ -411,14 +411,14 @@
     {
       "scope": "text.html",
       "settings": {
-        "foreground": "#cfcfcf"
+        "foreground": "#c7c7c7"
       }
     },
     {
       "name": "Tag",
       "scope": "meta.tag.without-attributes, meta.embedded.expression, meta.jsx.children",
       "settings": {
-        "foreground": "#cfcfcf"
+        "foreground": "#c7c7c7"
       }
     },
     {
