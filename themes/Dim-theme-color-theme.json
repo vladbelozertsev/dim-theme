@@ -150,7 +150,7 @@
       "name": "Operator Assignment",
       "scope": "keyword.operator.assignment - meta.tag.attributes, keyword.operator.arithmetic, punctuation.separator.key-value.css",
       "settings": {
-        "foreground": "#d7deea"
+        "foreground": "#d1d8e6" // d7deea
       }
     },
     {
@@ -165,34 +165,6 @@
       "scope": "entity.name.function, support.function, variable.function, keyword.other.special-method, meta.block-level",
       "settings": {
         "foreground": "#79b6f2"
-      }
-    },
-    {
-      "name": "Function, Special Method, Block Level",
-      "scope": "variable.other.object",
-      "settings": {
-        "foreground": "#79b6f2"
-      }
-    },
-    {
-      "name": "Function, Special Method, Block Level",
-      "scope": "meta.export.default",
-      "settings": {
-        "foreground": "#79b6f2"
-      }
-    },
-    {
-      "name": "Function, Special Method, Block Level",
-      "scope": "meta.export.default",
-      "settings": {
-        "foreground": "#79b6f2"
-      }
-    },
-    {
-      "name": "Function, Special Method",
-      "scope": "variable.other.object.property, support.variable.property.dom",
-      "settings": {
-        "foreground": "#d7deea"
       }
     },
     {
@@ -377,21 +349,14 @@
       "name": "Function, Special Method, Block Level",
       "scope": "variable.other.object",
       "settings": {
-        "foreground": "#9fb4c4"
+        "foreground": "#9fb4c4" // 79b6f2
       }
     },
     {
       "name": "Function, Special Method, Block Level",
       "scope": "meta.export.default",
       "settings": {
-        "foreground": "#9fb4c4"
-      }
-    },
-    {
-      "name": "Function, Special Method, Block Level",
-      "scope": "meta.export.default",
-      "settings": {
-        "foreground": "#9fb4c4"
+        "foreground": "#9fb4c4" // 79b6f2
       }
     },
     {
@@ -425,7 +390,7 @@
       "name": "Function, Special Method",
       "scope": "variable.other.object.property, support.variable.property.dom",
       "settings": {
-        "foreground": "#b2d0eb" //#b2d0eb #c2d9ed
+        "foreground": "#93b7f5" //#b2d0eb #c2d9ed
       }
     },
     {
