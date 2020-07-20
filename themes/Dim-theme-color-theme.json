@@ -14,7 +14,7 @@
     "dropdown.border": "#353b45",
     "editor.background": "#23282e", // 282d34
     "editor.findMatchHighlightBackground": "#314365",
-    "editor.lineHighlightBackground": "#333b42", // 363f4d
+    "editor.lineHighlightBackground": "#333b42", // 363f4d 293036
     "editor.selectionBackground": "#484e5b",
     "editor.selectionHighlightBackground": "#23282e", // 484e5b
     "editor.selectionHighlightBorder": "#ffffffaa",
@@ -108,7 +108,7 @@
       "name": "Variable",
       "scope": "variable-meta.export.default, variable.parameter, variable.other.readwrite-meta.export.default, variable, entity.name.variable",
       "settings": {
-        "foreground": "#c7c7c7"
+        "foreground": "#c1c1c1"
       }
     },
     {
@@ -171,7 +171,7 @@
       "name": "Meta",
       "scope": ["meta.object-literal.key"],
       "settings": {
-        "foreground": "#c7c7c7"
+        "foreground": "#c1c1c1"
       }
     },
     {
@@ -185,7 +185,7 @@
       "name": "React Support Variable",
       "scope": "support.variable.dom.js",
       "settings": {
-        "foreground": "#c7c7c7" // d3d3d3 cfcfcf
+        "foreground": "#c1c1c1" // d3d3d3 cfcfcf
       }
     },
     {
@@ -335,7 +335,7 @@
       "name": "Internal Variable",
       "scope": "meta.definition.variable-entity.name.function",
       "settings": {
-        "foreground": "#c7c7c7" // d3d3d3 cfcfcf
+        "foreground": "#c1c1c1" // d3d3d3 cfcfcf
       }
     },
     {
@@ -376,14 +376,14 @@
     {
       "scope": "text.html",
       "settings": {
-        "foreground": "#c7c7c7"
+        "foreground": "#c1c1c1"
       }
     },
     {
       "name": "Tag",
       "scope": "meta.tag.without-attributes, meta.embedded.expression, meta.jsx.children",
       "settings": {
-        "foreground": "#c7c7c7"
+        "foreground": "#c1c1c1"
       }
     },
     {
