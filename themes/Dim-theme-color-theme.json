@@ -171,7 +171,7 @@
       "name": "Meta",
       "scope": ["meta.object-literal.key"],
       "settings": {
-        "foreground": "#c9c9c9"
+        "foreground": "#b7b7b7"
       }
     },
     {
@@ -383,7 +383,7 @@
       "name": "Tag",
       "scope": "meta.tag.without-attributes, meta.embedded.expression, meta.jsx.children",
       "settings": {
-        "foreground": "#c9c9c9"
+        "foreground": "#b7b7b7"
       }
     },
     {
