@@ -203,13 +203,6 @@
       }
     },
     {
-      "name": "Number, Constant, Function Argument, Tag Attribute, Embedded",
-      "scope": "constant.numeric, constant.language, support.constant, constant.character, keyword.other.unit",
-      "settings": {
-        "foreground": "#5a9bcf"
-      }
-    },
-    {
       "name": "String, Symbols, Markup Heading",
       "scope": "string, constant.other.symbol, constant.other.key, markup.heading, markup.inserted.git_gutter, meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js",
       "settings": {
@@ -342,7 +335,7 @@
       "name": "Number, Constant, Function Argument, Tag Attribute, Embedded",
       "scope": "constant.numeric, constant.language, support.constant, constant.character, keyword.other.unit",
       "settings": {
-        "foreground": "#b3cee3" // #b6ccde #bdd9f0
+        "foreground": "#a1c7e6" // #b6ccde #bdd9f0 a1c7e6 b3cee3
       }
     },
     {
@@ -412,6 +405,18 @@
       "scope": ["support.class.component", "support.variable.property.dom"],
       "settings": {
         "foreground": "#d6d089" // #e6de9a #e3da8a #e3db98  #d9d191 #d1cb86
+      }
+    },
+    {
+      "scope": ["keyword.operator"],
+      "settings": {
+        "foreground": "#c2b68d" // c2b68d c2b486 c2b793 bfb38c
+      }
+    },
+    {
+      "scope": ["keyword.operator.assignment"],
+      "settings": {
+        "foreground": "#b7b7b7" // c2b68d c2b486
       }
     }
   ]
