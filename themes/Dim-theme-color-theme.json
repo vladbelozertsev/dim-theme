@@ -108,7 +108,7 @@
       "name": "Variable",
       "scope": "variable-meta.export.default, variable.parameter, variable.other.readwrite-meta.export.default, variable, entity.name.variable",
       "settings": {
-        "foreground": "#c9c9c9"
+        "foreground": "#c5c5c5"
       }
     },
     {
@@ -185,7 +185,7 @@
       "name": "React Support Variable",
       "scope": "support.variable.dom.js",
       "settings": {
-        "foreground": "#c9c9c9" // d3d3d3 cfcfcf
+        "foreground": "#c5c5c5" // d3d3d3 cfcfcf
       }
     },
     {
@@ -328,7 +328,7 @@
       "name": "Internal Variable",
       "scope": "meta.definition.variable-entity.name.function",
       "settings": {
-        "foreground": "#c9c9c9" // d3d3d3 cfcfcf
+        "foreground": "#c5c5c5" // d3d3d3 cfcfcf c9c9c9
       }
     },
     {
@@ -369,7 +369,7 @@
     {
       "scope": "text.html",
       "settings": {
-        "foreground": "#c9c9c9"
+        "foreground": "#c5c5c5"
       }
     },
     {
@@ -417,6 +417,22 @@
       "scope": ["keyword.operator.assignment"],
       "settings": {
         "foreground": "#b7b7b7" // c2b68d c2b486
+      }
+    },
+    {
+      "name": "Default Embedded Color",
+      "scope": [
+        "punctuation.section.embedded.begin.js",
+        "punctuation.section.embedded.end.js",
+        "source.elixir.embedded",
+        "punctuation.separator",
+        "punctuation.accessor",
+        "meta.brace",
+        "meta.embedded",
+        "string.unquoted.heredoc.ruby"
+      ],
+      "settings": {
+        "foreground": "#b7b7b7"
       }
     }
   ]
