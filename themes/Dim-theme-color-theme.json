@@ -150,7 +150,7 @@
       "name": "Operator Assignment",
       "scope": "keyword.operator.assignment - meta.tag.attributes, keyword.operator.arithmetic, punctuation.separator.key-value.css",
       "settings": {
-        "foreground": "#d1d8e6" // d7deea
+        "foreground": "#b7b7b7" // d7deea d1d8e6
       }
     },
     {
