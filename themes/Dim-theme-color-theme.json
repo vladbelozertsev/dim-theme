@@ -14,7 +14,7 @@
     "dropdown.border": "#353b45",
     "editor.background": "#11151a", // 282d34 23282e 1d2126
     "editor.findMatchHighlightBackground": "#314365",
-    "editor.lineHighlightBackground": "#22292e", // 363f4d 293036 333b42 293036
+    "editor.lineHighlightBackground": "#171d21", // 363f4d 293036 333b42 293036 22292e
     "editor.selectionBackground": "#383d4a", // 484e5b
     "editor.selectionHighlightBackground": "#11151a", // 484e5b 23282e
     "editor.selectionHighlightBorder": "#ffffffaa",
