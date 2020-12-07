@@ -10,7 +10,7 @@
     "button.background": "#3a414d", // 404754
     "debugToolBar.background": "#21252b",
     "diffEditor.insertedTextBackground": "#00809b33",
-    "dropdown.background": "#242930", // 353b45 303640
+    "dropdown.background": "#21252b", // 353b45 303640 242930
     "dropdown.border": "#353b45",
     "editor.background": "#11151a", // 282d34 23282e 1d2126
     "editor.findMatchHighlightBackground": "#314365",
