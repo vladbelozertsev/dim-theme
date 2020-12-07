@@ -10,7 +10,7 @@
     "button.background": "#3a414d", // 404754
     "debugToolBar.background": "#21252b",
     "diffEditor.insertedTextBackground": "#00809b33",
-    "dropdown.background": "#21252b", // 353b45 303640 242930
+    "dropdown.background": "#191e24", // 353b45 303640 242930 21252b
     "dropdown.border": "#353b45",
     "editor.background": "#11151a", // 282d34 23282e 1d2126
     "editor.findMatchHighlightBackground": "#314365",
@@ -36,9 +36,9 @@
     "editorSuggestWidget.border": "#181a1f",
     "editorSuggestWidget.selectedBackground": "#2c313a",
     "editorWhitespace.foreground": "#3b4048",
-    "editorWidget.background": "#21252b",
+    "editorWidget.background": "#191e24", // 21252b
     "input.background": "#22252e", // 1d1f23
-    "list.activeSelectionBackground": "#191d21", // 2c313a 272c36 282D34
+    "list.activeSelectionBackground": "#292d35", // 2c313a 272c36 282D34 191d21
     "list.activeSelectionForeground": "#e3e3e3", // d7dae0
     "list.focusBackground": "#383e4a", // 383e4a
     "list.highlightForeground": "#c3c3c3", // c5c5c5
