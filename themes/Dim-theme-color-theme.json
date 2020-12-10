@@ -404,7 +404,7 @@
       "name": "Class, Support",
       "scope": "entity.name.class, entity.other.inherited-class, entity.name.type, entity.name.type.class, support.type, support.class, support.orther.namespace.use.php, meta.use.php, support.other.namespace.php, markup.changed.git_gutter",
       "settings": {
-        "foreground": "#d4d496"
+        "foreground": "#cccc9d"
       }
     },
     // {
@@ -418,7 +418,7 @@
       "name": "Support.Class",
       "scope": ["support.class.component", "support.variable.property.dom"],
       "settings": {
-        "foreground": "#d6d089" // #e6de9a #e3da8a #e3db98  #d9d191 #d1cb86
+        "foreground": "#e3ba88" // #e6de9a #e3da8a #e3db98  #d9d191 #d1cb86
       }
     },
     {
