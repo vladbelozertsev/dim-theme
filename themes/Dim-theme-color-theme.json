@@ -80,13 +80,15 @@
     "tab.inactiveBackground": "#0f141c", // 21252b
     "terminal.ansiBlack": "#232833",
     "terminal.ansiBlue": "#2e8ccf",
+    "terminal.ansiBrightWhite": "#b1b1b1", // adad9e
     "terminal.ansiGreen": "#98c379",
     "terminal.ansiYellow": "#b4881d",
     "terminal.foreground": "#b1b1b1",
     "titleBar.activeBackground": "#1c212e", // 282d34
     "titleBar.activeForeground": "#9da5b4",
     "titleBar.inactiveBackground": "#1d232b",
-    "titleBar.inactiveForeground": "#6b717d"
+    "titleBar.inactiveForeground": "#6b717d",
+    "tree.indentGuidesStroke": "#434b5e"
   },
   "tokenColors": [
     {
