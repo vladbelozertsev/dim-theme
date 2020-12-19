@@ -126,7 +126,7 @@
       "name": "Variable",
       "scope": "variable-meta.export.default, variable.parameter, variable.other.readwrite-meta.export.default, variable, entity.name.variable",
       "settings": {
-        "foreground": "#c3c3c3"
+        "foreground": "#c1c1c1"
       }
     },
     {
@@ -203,16 +203,16 @@
       "name": "React Support Variable",
       "scope": "support.variable.dom.js",
       "settings": {
-        "foreground": "#c3c3c3" // d3d3d3 cfcfcf
+        "foreground": "#c1c1c1" // d3d3d3 cfcfcf
       }
     },
-    {
-      "name": "React Support Variable",
-      "scope": "support.function.dom.js",
-      "settings": {
-        "foreground": "#79b6f2"
-      }
-    },
+    // {
+    //   "name": "React Support Variable",
+    //   "scope": "support.function.dom.js",
+    //   "settings": {
+    //     "foreground": "#79b6f2"
+    //   }
+    // },
     {
       "name": "Other Variable, String Link",
       "scope": "support.other.variable, string.other.link",
@@ -346,7 +346,7 @@
       "name": "Internal Variable",
       "scope": "meta.definition.variable-entity.name.function",
       "settings": {
-        "foreground": "#c3c3c3" // d3d3d3 cfcfcf c9c9c9
+        "foreground": "#c1c1c1" // d3d3d3 cfcfcf c9c9c9
       }
     },
     {
