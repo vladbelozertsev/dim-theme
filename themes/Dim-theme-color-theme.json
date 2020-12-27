@@ -84,6 +84,7 @@
     "terminal.ansiBlue": "#2e8ccf",
     "terminal.ansiBrightWhite": "#959ca6", // adad9e
     "terminal.ansiGreen": "#98c379",
+    "terminal.ansiWhite": "#959ca6",
     "terminal.ansiYellow": "#b4881d",
     "terminal.foreground": "#959ca6",
     "titleBar.activeBackground": "#1c212e", // 282d34
