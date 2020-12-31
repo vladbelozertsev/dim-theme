@@ -45,7 +45,9 @@
     "editorWidget.background": "#0f141c", // 21252b
     "editorWidget.resizeBorder": "#272f42",
     "foreground": "#959ca6",
+    "icon.foreground": "#787c99",
     "input.background": "#1c212e", // 1d1f23
+    "input.border": "#1c212e",
     "list.activeSelectionBackground": "#202936", // 2c313a 272c36 282D34 191d21
     "list.activeSelectionForeground": "#bcc3cc", // d7dae0
     "list.focusBackground": "#202936", // 383e4a
@@ -70,9 +72,9 @@
     "sideBarSectionHeader.background": "#1c212e", // 282d34
     "sideBarSectionHeader.border": "#0f141c", // 11151a
     "statusBar.background": "#1c212e", // 21252b
-    "statusBar.debuggingBackground": "#7e0097",
-    "statusBar.debuggingBorder": "#66017a",
-    "statusBar.debuggingForeground": "#bfbfbf", // d3d3d3
+    "statusBar.debuggingBackground": "#1c212e", // 7e0097
+    // "statusBar.debuggingBorder": "#66017a",
+    "statusBar.debuggingForeground": "#d1a660", // d3d3d3 bfbfbf
     "statusBar.foreground": "#9da5b4",
     "statusBar.noFolderBackground": "#1d2129",
     "statusBarItem.hoverBackground": "#0f141c",
