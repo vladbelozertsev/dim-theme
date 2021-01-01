@@ -21,6 +21,7 @@
     "editor.selectionBackground": "#343845", // 484e5b
     "editor.selectionHighlightBackground": "#0f141c", // 484e5b 23282e
     "editor.selectionHighlightBorder": "#a9a9a9",
+    "editor.stackFrameHighlightBackground": "#202c3d", //  022c2e
     "editor.wordHighlightBackground": "#414959",
     "editor.wordHighlightStrongBackground": "#1c212e",
     "editorBracketMatch.border": "#8f969c",
@@ -66,6 +67,7 @@
     "scrollbarSlider.activeBackground": "#747d9180",
     "scrollbarSlider.background": "#4e566680",
     "scrollbarSlider.hoverBackground": "#5a637580",
+    "settings.headerForeground": "#52a362", // 52a362 a35252 a3b1c4
     "sideBar.background": "#0f141c", // 21252b 1d2126
     "sideBar.border": "#1c212e", // 22252e
     "sideBar.foreground": "#959ca6",
