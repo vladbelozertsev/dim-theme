@@ -10,13 +10,25 @@
     "badge.foreground": "#d9d9d9", // ffffff
     "button.background": "#2d3545", // 404754
     "button.foreground": "#a7b6cc", // 404754
+    "debugExceptionWidget.background": "#101014",
+    "debugExceptionWidget.border": "#963c47",
     "debugToolBar.background": "#1e232b",
+    "debugTokenExpression.name": "#bfb993", //7dcfff 6db8e3
+    "debugTokenExpression.value": "#9aa5ce",
+    "debugTokenExpression.string": "#9ece6a",
+    "debugTokenExpression.boolean": "#e0976c", //ff9e64
+    "debugTokenExpression.number": "#e0976c", //ff9e64
+    "debugTokenExpression.error": "#bb616b",
+    "debugView.stateLabelBackground": "#14141b",
+    "debugView.stateLabelForeground": "#787c99",
+    "debugView.valueChangedHighlight": "#3d59a1aa",
     "diffEditor.insertedTextBackground": "#00809b33",
     "dropdown.background": "#181f29", // 353b45 303640 242930 21252b
     "dropdown.border": "#2d3645",
     "dropdown.foreground": "#959ca6", // b1b1b1
     "editor.background": "#0f141c", // 282d34 23282e 1d2126
     "editor.findMatchHighlightBackground": "#314365",
+    "editor.focusedStackFrameHighlightBackground": "#73daca20",
     "editor.lineHighlightBackground": "#131a24", // 363f4d 293036 333b42 293036 22292e
     "editor.selectionBackground": "#343845", // 484e5b
     "editor.selectionHighlightBackground": "#0f141c", // 484e5b 23282e
