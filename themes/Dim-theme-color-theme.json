@@ -50,6 +50,7 @@
     "editorLineNumber.activeForeground": "#6c7894",
     "editorLineNumber.foreground": "#495162",
     "editorMarkerNavigation.background": "#181f29",
+    "editorOverviewRuler.border": "#1c212e",
     "editorRuler.foreground": "#1c212e",
     "editorSuggestWidget.background": "#0f141c",
     "editorSuggestWidget.border": "#1c212e",
@@ -75,7 +76,19 @@
     "panelTitle.activeBorder": "#959ca6",
     "panelTitle.activeForeground": "#959ca6",
     "panelTitle.inactiveForeground": "#959ca6",
-    "peekViewEditor.matchHighlightBackground": "#29244b",
+
+    "peekViewEditor.background": "#151b29",
+    "peekViewEditor.matchHighlightBackground": "#3d59a166",
+    "peekViewResult.background": "#0f141c",
+    "peekViewResult.fileForeground": "#808fa6",
+    "peekViewResult.lineForeground": "#93c993", // 9badc7
+    "peekViewResult.matchHighlightBackground": "#98a5b8",
+    "peekViewResult.selectionBackground": "#3d59a133",
+    "peekViewResult.selectionForeground": "#a9b1d6",
+    "peekViewTitle.background": "#0f141c", // 131621 14192b
+    "peekViewTitleDescription.foreground": "#787c99",
+    "peekViewTitleLabel.foreground": "#a9b1d6",
+
     "scrollbarSlider.activeBackground": "#747d9180",
     "scrollbarSlider.background": "#4e566680",
     "scrollbarSlider.hoverBackground": "#5a637580",
