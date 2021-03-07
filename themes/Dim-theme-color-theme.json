@@ -32,6 +32,7 @@
     "editor.background": "#0f141c", // 282d34 23282e 1d2126
     "editor.findMatchHighlightBackground": "#314365",
     "editor.focusedStackFrameHighlightBackground": "#73daca20",
+    "editor.foreground": "#a1a7ad",
     "editor.lineHighlightBackground": "#131a24", // 363f4d 293036 333b42 293036 22292e
     "editor.selectionBackground": "#343845", // 484e5b
     "editor.selectionHighlightBackground": "#0f141c", // 484e5b 23282e
