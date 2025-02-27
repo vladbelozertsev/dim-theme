@@ -1,7 +1,7 @@
 {
-  "name": "dim-theme",
-  "displayName": "Dim-theme",
-  "description": "Dim-theme",
+  "name": "dimex-theme",
+  "displayName": "Dimex Theme",
+  "description": "Dark theme",
   "version": "1.0.75",
   "publisher": "vladbelozertsev",
   "icon": "images/logo.png",
