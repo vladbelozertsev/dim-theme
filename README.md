@@ -1,11 +1,9 @@
-React-based, not vivid theme.
+## About
 
-# Images:
+Dimex is VSCode dark theme, see examples below.
+Reccomend to use it with
+[vsc-material-theme-icons](https://github.com/material-theme/vsc-material-theme-icons).
 
-## HTML:
+## Examples:
 
-![html-image](https://github.com/vladbelozertsev/dim-theme/blob/master/images/html.png?raw=true)
-
-## CSS:
-
-![css-image](https://github.com/vladbelozertsev/dim-theme/blob/master/images/css.png?raw=true)
+![example-image](https://github.com/vladbelozertsev/dim-theme/blob/master/images/example.png?raw=true)

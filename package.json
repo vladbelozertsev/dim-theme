@@ -1,13 +1,13 @@
 {
   "name": "dimex-theme",
   "displayName": "Dimex Theme",
-  "description": "Dark theme",
-  "version": "1.0.75",
+  "description": "Dark Theme",
+  "version": "2.0.0",
   "publisher": "vladbelozertsev",
   "icon": "images/logo.png",
   "repository": {
     "type": "git",
-    "url": "https://github.com/vladbelozertsev/dim-theme"
+    "url": "https://github.com/vladbelozertsev/dimex-theme"
   },
   "engines": {
     "vscode": "^1.40.0"
@@ -18,15 +18,16 @@
   "keywords": [
     "theme",
     "dark",
+    "dimex",
     "dim",
     "react"
   ],
   "contributes": {
     "themes": [
       {
-        "label": "Dim-theme",
+        "label": "Dimex",
         "uiTheme": "vs-dark",
-        "path": "./themes/Dim-theme-color-theme.json"
+        "path": "./themes/dimex.json"
       }
     ]
   }
